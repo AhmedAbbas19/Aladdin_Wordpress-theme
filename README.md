@@ -4,11 +4,8 @@ Aladdin
 Set-up & general guide to help you get the most out of your new
 WordPress theme.
 
-[Getting Started](#GettingStarted) [Menus](#Navigation)
-[Features](#Features) [Widgets](#Widgets) [Customizer](#Customizer)
-[Plugins](#Plugins) [Credits](#Credits)
 
-[Getting Started](#GettingStarted)[Back to Top](#html)
+[Getting Started](#GettingStarted)(#html)
 ======================================================
 
 This document covers the installation, set up, and use of this theme,
@@ -61,7 +58,7 @@ section and hit "Upload file and import".
 
 ![](images/importer.png)
 
-[Menus](#Navigation)[Back to Top](#html)
+[Menus](#Navigation)(#html)
 ========================================
 
 It is rather important to set your theme menu in the WordPress
@@ -127,7 +124,7 @@ To employ a widget, simply go to your Widgets editor (located in your
 WordPress Dashboard in the “Appearance” menu) and drag your widgets into
 the specified widget areas.
 
-[Customizer](#Customizer)[Back to Top](#html)
+[Customizer](#Customizer)(#html)
 =============================================
 
 To access the live Customizer, you may select the Customize button in
