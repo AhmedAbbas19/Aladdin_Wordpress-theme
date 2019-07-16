@@ -5,7 +5,7 @@ Set-up & general guide to help you get the most out of your new
 WordPress theme.
 
 
-[Getting Started](#GettingStarted)(#html)
+[Getting Started](#GettingStarted)
 ======================================================
 
 This document covers the installation, set up, and use of this theme,
@@ -58,7 +58,7 @@ section and hit "Upload file and import".
 
 ![](images/importer.png)
 
-[Menus](#Navigation)(#html)
+[Menus](#Navigation)
 ========================================
 
 It is rather important to set your theme menu in the WordPress
@@ -124,7 +124,7 @@ To employ a widget, simply go to your Widgets editor (located in your
 WordPress Dashboard in the “Appearance” menu) and drag your widgets into
 the specified widget areas.
 
-[Customizer](#Customizer)(#html)
+[Customizer](#Customizer)
 =============================================
 
 To access the live Customizer, you may select the Customize button in
@@ -166,7 +166,7 @@ can add a new widget or remove one.
 
 ![](images/widgets.png)
 
-[Plugins](#Plugins)[Back to Top](#html)
+[Plugins](#Plugins)
 =======================================
 
 To install any of our free plugins, simply download the plugin files.
